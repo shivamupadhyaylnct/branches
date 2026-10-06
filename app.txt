@@ -14,3 +14,4 @@ bug fix 2
 
 git flow
 
+new feature
